@@ -1,5 +1,4 @@
-! Hide all videos containing the phrase "#shorts"
+
 youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#shorts))
 
-! Hide all videos with the shorts indicator on the thumbnail
 youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
