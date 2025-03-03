@@ -1,2 +1,1 @@
-youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#shorts))
-youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
